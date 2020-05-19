@@ -1,0 +1,239 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin:400,500,600,700');
+body{
+	font-family: 'Montserrat Oswald' sans-serif;, sans-serif;
+	font-size: 14px;
+	color: #898989!important;
+	background-color:  #f3f3f3;
+}
+.header-area.sticky {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+	width: 100%;
+    height: auto;
+    position: absolute;
+    top: 0;
+    z-index: 99;
+	color: #898989;
+	font-family: 'Oswald' sans-serif;
+}
+.header-area.sticky .navbar-default{
+	background-color: transparent;
+}
+#top{
+	background-image: url(../img/slider1_slide2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.btn{
+	font-family: 'Oswald' sans-serif;
+}
+.btn-trans{
+	background-color:transparent;
+	border-radius:30px;
+	border:1px solid #fff;
+	display:inline-block;
+	color: #FFFFFF;
+	padding: 4px 18px;
+	margin: 5px;
+}
+#motion{
+	margin: 5%;
+	text-align: center;
+}
+#motion h2{
+	margin-top: 10%;
+	color: white;
+	font-family: 'Oswald' sans-serif;
+	font-size: 60px;
+	font-weight: bold;
+}
+#motion a{
+	margin-top: 4%;
+	margin-bottom: 15%;
+}
+.btn-default{
+	background-color: #41c1fe;
+	border-radius:30px;
+	display: inline-block;
+	color: #FFFFFF;
+	padding:8px 30px;
+	font-family: 'Oswald';
+	margin: 5px;
+}
+.btn-white{
+	background-color: #fff;
+	border-radius:30px;
+	display: inline-block;
+	color: #41c1fe;
+	padding:8px 30px;
+	font-family: 'Oswald';
+	margin: 5px;
+}
+#running{
+	color: white;
+	font-family: 'Oswald';
+	text-align: center;
+}
+#running h3{
+	padding-top: 30%;
+	font-size: 50px;
+}
+#running h5{
+	color: #898989;
+	font-size: 14px;
+	margin-top: 4%;
+}
+.men{
+	width: 300px;
+	height: 300px;
+	background-image: url(../img/men-running.jpg);
+	margin-left: auto;
+	margin-right: auto;
+}
+.women{
+	width: 300px;
+	height: 300px;
+	background-image: url(../img/women-runnig.jpg);
+	margin-left: auto;
+	margin-right: auto;
+}
+.sale{
+	width: 300px;
+	height: 300px;
+	background-color: #41c1fe;
+	margin-left: auto;
+	margin-right: auto;
+}
+.products{
+	width: 250px;
+	margin: 10px;
+	background-color: white;
+}
+.products img{
+	width: 100%;
+}
+#featured h3{
+	margin-top: 2%;
+	margin-bottom: 5%;
+	color: #383838;
+	font-family: 'Oswald' sans-serif;
+	font-size: 60px;
+	font-weight: bold;
+}
+#featured .btn{
+	margin-bottom: 15%;
+}
+#featured h4{
+	font-size: 14px;
+	color: #383838;
+	font-weight: bold;
+}
+#featured h5{
+	font-size: 20px;
+	font-weight: bold;
+	color: #888585;
+}
+#featured{
+	text-align: center;
+	margin-bottom: 8%;
+}
+#action{
+	background-image: url(../img/bg_action.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+	background-position: center;
+	padding: 5%;
+}
+#action h3{
+	margin-top: 15%;
+	margin-bottom: 4%;
+	color: white;
+	font-size: 40px;
+	font-family: 'Oswald' sans-serif;
+	font-weight: bold;
+}
+#action h2{
+	font-size: 30px;
+	font-weight: bold;
+	color: #41c1fe;
+	margin-bottom: 6%;
+}
+.tipimg{
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	width: 300px;
+	height: 400px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.tips{
+	width: 250px;
+	margin: 10px;
+	background-color: white;
+}
+#tips h3{
+	margin-top: 90%;
+	color: white;
+	font-family: 'Oswald' sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+}
+#tips{
+	text-align: center;
+	margin-top: 10%;
+	margin-bottom: 8%;
+}
+#new h3{
+	margin-top: 2%;
+	margin-bottom: 5%;
+	color: #383838;
+	font-family: 'Oswald' sans-serif;
+	font-size: 60px;
+	font-weight: bold;
+}
+#new .btn{
+	margin-bottom: 15%;
+}
+#new h4{
+	font-size: 14px;
+	color: #383838;
+	font-weight: bold;
+}
+new h5{
+	font-size: 20px;
+	font-weight: bold;
+	color: #888585;
+}
+#new{
+	text-align: center;
+	margin-bottom: 8%;
+}
+#tips h5{
+	color: #898989;
+	font-size: 14px;
+	margin-top: 4%;
+}
+footer{
+	background-color: #383838;
+}
+footer .list-inline{
+	background-color: #383838;
+	margin: 4%;
+}
+footer h3{
+	font-size: 20px;
+}
+footer {
+    color: #ffffff;
+}
+footer i {
+    background-color: #464646 !important;
+    color: white;
+    width: 45px;
+    height: 45px;
+    text-align: center;
+    line-height: 45px;
+    border-radius: 100%;
+}
